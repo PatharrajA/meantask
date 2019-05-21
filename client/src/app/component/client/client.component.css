@@ -1,0 +1,46 @@
+.client-container {
+  background-color: #eee;
+  height: 100vh;
+}
+
+header nav {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  max-height: 56px;
+  height: 56px;
+  margin-bottom: 30px;
+}
+
+.table-grid {
+  margin: 0 auto;
+}
+
+.client-container table thead {
+  border: none;
+  background: #3fbbdd;
+  color: #fff;
+}
+
+.card-actions {
+  float: right;
+}
+
+.navigation-bar {
+  float: right;
+}
+
+.table-content {
+  overflow-x: auto;
+}
+
+.card-default {
+  padding: 40px 0px;
+}
+
+.add-btn{
+  color: #000;
+}
+.add-btn img{
+  max-width: 18px;
+  margin-right: 10px;
+}
